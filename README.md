@@ -7,21 +7,6 @@
 
 <h1 align="center">Nlw 12 Spacetime</h1>
 
-<p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/diogorochaa/mvp-stack-next-js?color=56BEB8">
-
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/diogorochaa/mvp-stack-next-js?color=56BEB8">
-
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/diogorochaa/mvp-stack-next-js?color=56BEB8">
-
-  <img alt="License" src="https://img.shields.io/github/license/diogorochaa/mvp-stack-next-js?color=56BEB8">
-
-  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/{{YOUR_GITHUB_USERNAME}}/mvp-stack-next-js?color=56BEB8" /> -->
-
-  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/{{YOUR_GITHUB_USERNAME}}/mvp-stack-next-js?color=56BEB8" /> -->
-
-  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/{{YOUR_GITHUB_USERNAME}}/mvp-stack-next-js?color=56BEB8" /> -->
-</p>
 
 <p align="center">
   <a href="#dart-about">About</a> &#xa0; | &#xa0; 
@@ -57,10 +42,10 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 
 ```bash
 # Clone this project
-$ git clone https://github.com/diogorochaa/integracao-node-next
+$ git clone https://github.com/diogorochaa/nlw-12-spacetime-ignite
 
 # Access web
-$ cd integracao-node-next/web
+$ cd nlw-12-spacetime-ignite/web
 
 # Install dependencies
 $ npm i
@@ -71,7 +56,7 @@ $ npm run dev
 # The server will initialize in the <http://localhost:3000>
 
 # Access server
-$ cd integracao-node-next/server
+$ cd nlw-12-spacetime-ignite/server
 
 # Install dependencies
 $ npm i
@@ -82,7 +67,7 @@ $ npm run dev
 # The server will initialize in the <http://localhost:3333>
 
 # Access mobile
-$ cd integracao-node-next/mobile
+$ cd nlw-12-spacetime-ignite/mobile
 
 # Install dependencies
 $ npm i
@@ -90,7 +75,7 @@ $ npm i
 # Run the project
 $ npm run dev
 
-# The server will initialize in the <http://localhost:3333>
+# The server will initialize in the <http://localhost:8000>
 ```
 
 ## :memo: License
