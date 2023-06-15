@@ -1,7 +1,3 @@
-## 💻 Projeto
-
-Aplicação de recordação de memórias, onde o usuário poderá adicionar à uma timeline textos, fotos e vídeos de acontecimentos marcantes da sua vida, organizados por mês e ano.
-
 <div align="center" id="top"> 
   <img src="./.github/app.gif" alt="Mvp Stack Next Js" />
 
@@ -34,7 +30,7 @@ Aplicação de recordação de memórias, onde o usuário poderá adicionar à u
 
 ## :dart: About
 
-Describe your project
+Aplicação de recordação de memórias, onde o usuário poderá adicionar à uma timeline textos, fotos e vídeos de acontecimentos marcantes da sua vida, organizados por mês e ano.
 
 ## :rocket: Technologies
 
